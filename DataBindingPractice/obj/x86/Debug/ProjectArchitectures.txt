@@ -1,0 +1,1 @@
+C:\Users\it\Documents\Coding\UWP\DataBindingPractice\DataBindingPractice\DataBindingPractice.csproj;x86
